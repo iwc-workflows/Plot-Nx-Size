@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-06-10T20:13:46.043345",
+            "datePublished": "2025-08-25T20:30:44.747712",
             "hasPart": [
                 {
                     "@id": "Generate-Nx-and-Size-plots-for-multiple-assemblies.ga"
@@ -63,7 +63,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#3a3f19f9-f3b4-4ca8-8477-69f8b2fff76d"
+                    "@id": "#0741709f-315d-48a9-a874-a45b5b28d4fd"
                 },
                 {
                     "@id": "#0000-0001-6421-3484"
@@ -74,7 +74,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Plot-Nx-Size",
-            "version": "0.1.7"
+            "version": "0.1.8"
         },
         {
             "@id": "#galaxy",
@@ -89,7 +89,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#3a3f19f9-f3b4-4ca8-8477-69f8b2fff76d",
+            "@id": "#0741709f-315d-48a9-a874-a45b5b28d4fd",
             "@type": "Organization",
             "name": "VGP"
         },
@@ -145,7 +145,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.30"
+            "engineVersion": ">=0.75.32"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
